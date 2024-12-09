@@ -67,7 +67,7 @@
                 "price": 10.50
             },
             {
-                "image_uri": "carrot.circle.fill",
+                "image_uri": "carrot.fill",
                 "title": "Roasted Sweet Potatoes",
                 "price": 8.75
             },
@@ -77,7 +77,7 @@
                 "price": 9.00
             },
             {
-                "image_uri": "sparkles.circle",
+                "image_uri": "sparkles",
                 "title": "Mixed Green Salad",
                 "price": 7.25
             }
