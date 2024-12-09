@@ -16,6 +16,9 @@ struct ContentView: View {
                 Title()
                 Carousel(catergories: viewModel.categories)
             }
+            .onAppear {
+                viewModel.fetchCategories()
+            }
         }
     }
 }
