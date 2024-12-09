@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Pasta Specials",
+        "text": "Delectable Pasta Dishes",
+        "button_text": "Dive Into Pasta",
+        "image_uri": "pasta_specials",
+        "items": [
+            {
+                "image_uri": "fork.knife.circle",
+                "title": "Creamy Alfredo Fettuccine",
+                "price": 15.99
+            },
+            {
+                "image_uri": "leaf.circle",
+                "title": "Pesto Linguine with Pine Nuts",
+                "price": 13.50
+            },
+            {
+                "image_uri": "flame.circle",
+                "title": "Spicy Arrabbiata Penne",
+                "price": 14.25
+            },
+            {
+                "image_uri": "chevron.up.circle",
+                "title": "Vegetable Lasagna",
+                "price": 12.75
+            }
+        ]
+    },
+    {
+        "name": "Desserts",
+        "text": "Sweet and Indulgent Treats",
+        "button_text": "Satisfy Your Sweet Tooth",
+        "image_uri": "desserts",
+        "items": [
+            {
+                "image_uri": "cup.and.saucer.fill",
+                "title": "Chocolate Lava Cake",
+                "price": 7.99
+            },
+            {
+                "image_uri": "drop.fill",
+                "title": "Vanilla Bean Panna Cotta",
+                "price": 6.75
+            },
+            {
+                "image_uri": "snowflake",
+                "title": "Classic Tiramisu",
+                "price": 8.50
+            },
+            {
+                "image_uri": "sparkles",
+                "title": "Lemon Meringue Tart",
+                "price": 7.25
+            }
+        ]
+    },
+    {
+        "name": "Healthy Sides",
+        "text": "Nutritious and Flavorful",
+        "button_text": "Perfect Your Plate",
+        "image_uri": "healthy_sides",
+        "items": [
+            {
+                "image_uri": "leaf.fill",
+                "title": "Quinoa Salad with Avocado",
+                "price": 10.50
+            },
+            {
+                "image_uri": "carrot.circle.fill",
+                "title": "Roasted Sweet Potatoes",
+                "price": 8.75
+            },
+            {
+                "image_uri": "sun.max.fill",
+                "title": "Steamed Broccoli with Lemon Zest",
+                "price": 9.00
+            },
+            {
+                "image_uri": "sparkles.circle",
+                "title": "Mixed Green Salad",
+                "price": 7.25
+            }
+        ]
+    }
+]
